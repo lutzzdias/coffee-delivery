@@ -7,8 +7,11 @@ export const GlobalStyle = createGlobalStyle`
     box-sizing: border-box;
   }
 
+  body {
+    background: ${(props) => props.theme.colors.background};
+  }
+
   body, input, textarea, button {
-    /* font-family: 'Baloo 2', cursive; */
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     font-size: 1rem;
