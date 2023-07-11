@@ -21,7 +21,13 @@ export const lightTheme = {
     background: '#FAFAFA',
     white: '#FFFFFF',
   },
+
   fonts: {
+    main: 'Roboto',
+    secondary: 'Baloo 2',
+  },
+
+  textStyle: {
     title: {
       extraLarge: {
         fontSize: '3rem',
