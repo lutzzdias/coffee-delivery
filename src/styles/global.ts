@@ -7,11 +7,6 @@ export const GlobalStyle = createGlobalStyle`
     box-sizing: border-box;
   }
 
-  body {
-    background: #333;
-    color: #FFF;
-  }
-
   body, input, textarea, button {
     /* font-family: 'Baloo 2', cursive; */
     font-family: 'Roboto', sans-serif;
