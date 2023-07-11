@@ -22,100 +22,30 @@ export const lightTheme = {
     white: '#FFFFFF',
   },
 
-  textStyles: {
+  fontSizes: {
     title: {
-      extraLarge: {
-        fontSize: '3rem',
-        fontWeight: 800,
-
-        lineHeight: '130%',
-      },
-      large: {
-        fontSize: '2rem',
-        fontWeight: 800,
-
-        lineHeight: '130%',
-      },
-      medium: {
-        fontSize: '1.5rem',
-        fontWeight: 800,
-
-        lineHeight: '130%',
-      },
-      small: {
-        fontSize: '1.25rem',
-        fontWeight: 700,
-
-        lineHeight: '130%',
-      },
-      extraSmall: {
-        fontSize: '1.125rem',
-        fontWeight: 700,
-
-        lineHeight: '130%',
-      },
+      extraSmall: '1.125rem',
+      small: '1.25rem',
+      medium: '1.5rem',
+      large: '2rem',
+      extraLarge: '3rem',
     },
     text: {
-      large: {
-        regular: {
-          fontSize: '1.25rem',
-          fontWeight: 400,
-
-          lineHeight: '130%',
-        },
-        bold: {
-          fontSize: '1.25rem',
-          fontWeight: 700,
-
-          lineHeight: '130%',
-        },
-      },
-      medium: {
-        regular: {
-          fontSize: '1rem',
-          fontWeight: 400,
-
-          lineHeight: '130%',
-        },
-        bold: {
-          fontSize: '1rem',
-          fontWeight: 700,
-
-          lineHeight: '130%',
-        },
-      },
-      small: {
-        fontSize: '0.875rem',
-        fontWeight: 400,
-
-        lineHeight: '130%',
-      },
-      extraSmall: {
-        fontSize: '0.75rem',
-        fontWeight: 700,
-
-        lineHeight: '130%',
-      },
+      extraSmall: '0.75rem',
+      small: '0.875rem',
+      medium: '1rem',
+      large: '1.25rem',
     },
-    tag: {
-      fontSize: '0.625rem',
-      fontWeight: 700,
-
-      lineHeight: '130%',
-    },
+    tag: '0.625rem',
     button: {
-      large: {
-        fontSize: '0.875rem',
-        fontWeight: 700,
-
-        lineHeight: '160%',
-      },
-      medium: {
-        fontSize: '0.75rem',
-        fontWeight: 400,
-
-        lineHeight: '160%',
-      },
+      large: '0.875rem',
+      medium: '0.75rem',
     },
+  },
+
+  fontWeights: {
+    regular: 400,
+    bold: 700,
+    extraBold: 800,
   },
 }
