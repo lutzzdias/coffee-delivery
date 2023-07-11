@@ -22,11 +22,6 @@ export const lightTheme = {
     white: '#FFFFFF',
   },
 
-  fonts: {
-    main: 'Roboto',
-    secondary: 'Baloo 2',
-  },
-
   textStyles: {
     title: {
       extraLarge: {
