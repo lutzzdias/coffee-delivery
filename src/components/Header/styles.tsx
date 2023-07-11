@@ -17,7 +17,7 @@ export const ActionContainer = styled.div`
   align-items: center;
   justify-content: center;
 
-  font: ${(props) => props.theme.fonts.text.small};
+  font: ${(props) => props.theme.textStyles.text.small};
 
   gap: 0.25rem;
   padding: 0.5rem;

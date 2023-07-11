@@ -27,7 +27,7 @@ export const lightTheme = {
     secondary: 'Baloo 2',
   },
 
-  textStyle: {
+  textStyles: {
     title: {
       extraLarge: {
         fontSize: '3rem',
