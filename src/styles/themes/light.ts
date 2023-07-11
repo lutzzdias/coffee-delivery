@@ -24,40 +24,30 @@ export const lightTheme = {
   fonts: {
     title: {
       extraLarge: {
-        fontFamily: 'Baloo 2',
-
         fontSize: '3rem',
         fontWeight: 800,
 
         lineHeight: '130%',
       },
       large: {
-        fontFamily: 'Baloo 2',
-
         fontSize: '2rem',
         fontWeight: 800,
 
         lineHeight: '130%',
       },
       medium: {
-        fontFamily: 'Baloo 2',
-
         fontSize: '1.5rem',
         fontWeight: 800,
 
         lineHeight: '130%',
       },
       small: {
-        fontFamily: 'Baloo 2',
-
         fontSize: '1.25rem',
         fontWeight: 700,
 
         lineHeight: '130%',
       },
       extraSmall: {
-        fontFamily: 'Baloo 2',
-
         fontSize: '1.125rem',
         fontWeight: 700,
 
@@ -67,16 +57,12 @@ export const lightTheme = {
     text: {
       large: {
         regular: {
-          fontFamily: 'Roboto',
-
           fontSize: '1.25rem',
           fontWeight: 400,
 
           lineHeight: '130%',
         },
         bold: {
-          fontFamily: 'Roboto',
-
           fontSize: '1.25rem',
           fontWeight: 700,
 
@@ -85,16 +71,12 @@ export const lightTheme = {
       },
       medium: {
         regular: {
-          fontFamily: 'Roboto',
-
           fontSize: '1rem',
           fontWeight: 400,
 
           lineHeight: '130%',
         },
         bold: {
-          fontFamily: 'Roboto',
-
           fontSize: '1rem',
           fontWeight: 700,
 
@@ -102,16 +84,12 @@ export const lightTheme = {
         },
       },
       small: {
-        fontFamily: 'Roboto',
-
         fontSize: '0.875rem',
         fontWeight: 400,
 
         lineHeight: '130%',
       },
       extraSmall: {
-        fontFamily: 'Roboto',
-
         fontSize: '0.75rem',
         fontWeight: 700,
 
@@ -119,8 +97,6 @@ export const lightTheme = {
       },
     },
     tag: {
-      fontFamily: 'Roboto',
-
       fontSize: '0.625rem',
       fontWeight: 700,
 
@@ -128,16 +104,12 @@ export const lightTheme = {
     },
     button: {
       large: {
-        fontFamily: 'Roboto',
-
         fontSize: '0.875rem',
         fontWeight: 700,
 
         lineHeight: '160%',
       },
       medium: {
-        fontFamily: 'Roboto',
-
         fontSize: '0.75rem',
         fontWeight: 400,
 
